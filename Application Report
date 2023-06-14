@@ -5,12 +5,14 @@ The Application is fully functional.
 
 All Forms are validated especially in creation or updation of event.
 
-User cannot register again with same email address
-User cannot add more than 3 events per day
-user can only view its own events and can modify or delete them.
-user cannot select previous date
-User cannot select wrong time
-Event End date must be greater than or equal to the start date.
+=> User cannot register again with same email address
+=> User cannot add more than 3 events per day
+=> user can only view its own events and can modify or delete them.
+=> user cannot select previous date
+=> User cannot select wrong time
+=> Event End date must be greater than or equal to the start date.
+
+
 The Application will show these above errors if the user will make any mistake any from the above.
 
 The Frontend UI is user Friendly
